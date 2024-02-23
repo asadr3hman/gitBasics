@@ -1,2 +1,1 @@
-# gitBasics
-Learning git basics
+I am editting the README file
